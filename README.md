@@ -1,1 +1,1 @@
-# Course-Scrapper
+# Course-Scraper
